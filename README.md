@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1> Atlética_fatec_Zona_Leste </h1>
+<h1> Atlética FATEC Zona Leste </h1>
 <p>Projeto interdisciplinar do 3º Semestre do Curso de Desenvolvimento de Software Multiplataforma da Fatec Zona Leste - Tema: Sistema web da Atlética da Fatec ZL - 2022</p>
 
 
-<p>Link: https://thais36.github.io/index.html/ </p>
+<p>Link: https://thais36.github.io/ </p>
 </body>
 </html>
